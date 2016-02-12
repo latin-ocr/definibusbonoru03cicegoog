@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./definibusbonoru03cicegoog_0038.png"; bbox 0 0 2332 3698; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 353 1535 568 1594">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 353 1535 568 1594">
+     <span class='ocr_line' id='line_1_1' title="bbox 353 1535 568 1594; baseline 0.009 -2"><span class='ocrx_word' id='word_1_1' title='bbox 353 1535 568 1594; x_wconf 87' lang='lat' dir='ltr'><strong>ERRATUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 61 1693 822 1766">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 61 1693 822 1766">
+     <span class='ocr_line' id='line_1_2' title="bbox 61 1693 822 1766; baseline -0.004 -13"><span class='ocrx_word' id='word_1_2' title='bbox 61 1695 105 1753; x_wconf 82' lang='lat' dir='ltr'><strong>On</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 118 1715 146 1766; x_wconf 84' lang='lat' dir='ltr'><strong>p.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 165 1700 215 1764; x_wconf 71' lang='lat'><strong>22,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 230 1693 361 1766; x_wconf 76' lang='lat' dir='ltr'><em>note,for</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 375 1694 569 1753; x_wconf 82' lang='lat' dir='ltr'><strong>Democritus</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 584 1695 651 1751; x_wconf 83' lang='lat' dir='ltr'><em>read</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 667 1694 822 1765; x_wconf 85' lang='lat' dir='ltr'><strong>Epicurus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1170 3698">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1170 3698">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1170 3698; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1170 3698; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
